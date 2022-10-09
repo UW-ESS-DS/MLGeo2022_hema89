@@ -7,3 +7,7 @@ I'm interested in land classification models particularly forest plantation dete
 
 Some interesting papers
 > Automated Plantation Mapping in Southeast Asia Using MODIS Data and Imperfect Visual Annotations - https://www.mdpi.com/2072-4292/12/4/636/htm
+
+My repository can be cloned by typing the following command in the terminal (bash)
+
+``` git clone https://github.com/UW-ESS-DS/MLGeo2022_hema89.git ```
