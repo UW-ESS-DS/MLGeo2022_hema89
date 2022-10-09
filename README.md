@@ -1,4 +1,6 @@
 # MLGeo2022_hema89
+##### This work is MIT Licensed. It's open source and you have permission to commercial use, modifications, distribution, and private use. As long as my work is credited appropriately, I'm happy to share it with others.
+
 ## Project interests
 
 I'm interested in land classification models particularly forest plantation detection. I'm also interested in identifying the type of tree species growing in a particular plantation. With that research interest, my favorite earth science topics include using machine learning to perform
